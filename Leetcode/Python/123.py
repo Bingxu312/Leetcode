@@ -1,6 +1,6 @@
 def test():
   i = 1
   
-  return i
+  print(i)
 
 test()
